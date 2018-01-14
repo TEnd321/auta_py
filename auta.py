@@ -72,7 +72,7 @@ def masterRace():
 	can1.after(40,masterRace)
 
 def finishLine():
-	can1.create_rectangle(900,5,902,195)
+	can1.create_rectangle(900,5,905,195)
 
 def restart():
 	can1.delete("all")
