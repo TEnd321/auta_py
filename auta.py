@@ -9,6 +9,8 @@ ta = lambda: math.trunc(time.time() * 100)
 tb = 0
 te = lambda: (ta() - tb) / 100
 
+#ctrctrcxdtrctdxdtrdrdtrdrdt
+
 def autoBlueDraw(x,y=45):
 	#can1.delete("all")
 	can1.create_polygon(x+18,y,x+46,y,x+53,y+9,x+69,y+9,x+70,y+10,x+71,y+10,x+72,y+11,x+72,y+12,x+73,y+13,x+73,y+17,x+72,y+18,x+72,y+19,x+71,y+20,x+70,y+20,x+69,y+21,x+2,y+21,x,y+19,x,y+12,x+2,y+10,x+4,y+10,x+18,y,fill="#00A")
